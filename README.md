@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SeongjuCho
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning 
 - 📫 How to reach me seongju0705@gmail.com
 
