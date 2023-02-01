@@ -7,6 +7,4 @@
 
 **언어 및 도구**  
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=tableau&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-3776AB?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=tableau&logoColor=white"> 
