@@ -6,10 +6,4 @@
 * 🎨 데이터 분석 및 시각화에 관심이 많습니다.
 
 **언어 및 도구**  
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> 
